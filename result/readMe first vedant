@@ -1,0 +1,15 @@
+!. First create Database Name vit_result
+in that Database import sql file which shown in folder
+done.
+
+
+After Running program it will display teacher and student option 
+
+enter teacher then it will ask to enter marks 30 out of and 70 out of
+
+in MSE enetr marks 30out off
+and in ESE enetyr MArks 70 out off
+after adding just click submit.
+
+for fetching enetr stduent option and enetr prn it will diplsya reuslt  
+that is 
